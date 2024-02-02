@@ -9,13 +9,13 @@ Siga os passos abaixo para configurar e executar o bot:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/whatsapp-bot.git
+   git clone https://github.com/RODRIGO20031112/WHATSAPP-GUN.git
    ```
 
 2. **Navegue até o diretório do projeto:**
 
    ```bash
-   cd whatsapp-bot
+   cd WHATSAPP-GUN
    ```
 
 3. **Instale as dependências:**
